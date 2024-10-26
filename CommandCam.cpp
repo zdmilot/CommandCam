@@ -1,4 +1,8 @@
-
+ 
+#include <initguid.h>
+#include <dshow.h>
+#include <stdio.h>
+#include <Windows.h>
 // DirectShow header file
 #include <dshow.h>
 
