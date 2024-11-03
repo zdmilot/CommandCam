@@ -1,0 +1,12 @@
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net48\HSLCam.csproj.AssemblyReference.cache
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net48\HSLCam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net48\HSLCam.AssemblyInfoInputs.cache
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net48\HSLCam.AssemblyInfo.cs
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net48\HSLCam.csproj.CoreCompileInputs.cache
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net48\HSLCam.sourcelink.json
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\bin\Debug\net48\HSLCam.dll
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\bin\Debug\net48\HSLCam.pdb
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\bin\Debug\net48\DirectShowLib.dll
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net48\HSLCam.csproj.Up2Date
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net48\HSLCam.dll
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net48\HSLCam.pdb

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework> <!-- Targeting .NET Framework 4.8 instead of .NET 6 -->
+    <RootNamespace>HSLCam</RootNamespace>
+    <AssemblyName>HSLCam</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DirectShowLib" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

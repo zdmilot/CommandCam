@@ -1,0 +1,6 @@
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net6.0\HSLCam.csproj.AssemblyReference.cache
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net6.0\HSLCam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net6.0\HSLCam.AssemblyInfoInputs.cache
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net6.0\HSLCam.AssemblyInfo.cs
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net6.0\HSLCam.csproj.CoreCompileInputs.cache
+C:\Users\milot\Documents\Github\CommandCam\HSLCam\HSLCam\obj\Debug\net6.0\HSLCam.sourcelink.json
